@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"root",
+				"gupnp_root_device_new"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"bo",
+				"bgcolor\tAttr"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"dat",
+				"datetime"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"p",
+				"photoalbum"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( '//sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Vojd/Desktop/Altair Re creators/database.sql",
+		"/C/OSPanel/domains/exam/predmet.php",
+		"/C/OSPanel/domains/exam/showExamByStudent.php",
+		"/C/OSPanel/domains/exam/exams.php",
+		"/C/OSPanel/domains/exam/showStudents.php",
+		"/C/OSPanel/domains/exam/index.php",
+		"/C/OSPanel/domains/exam/showExams.php",
+		"/C/OSPanel/domains/exam/lib/db.php",
+		"/C/OSPanel/domains/exam/showPredmet.php",
+		"/G/SOS/Экзамен задачи WEB/Задачи/1/addStudents.php",
+		"/G/SOS/Экзамен задачи WEB/Задачи/1/index.php",
+		"/C/OSPanel/domains/exam/addStudent.php",
+		"/C/OSPanel/domains/exam/lib/config/db_config.php",
+		"/G/SOS/Экзамен задачи WEB/Задачи/1/addExamens.php",
+		"/C/OSPanel/domains/first/bd.php",
+		"/G/SOS/Экзамен задачи WEB/Задачи/1/bd.php",
+		"/C/OSPanel/domains/exam/connect.php",
+		"/C/OSPanel/domains/exam/statistics.php",
+		"/C/OSPanel/domains/exam/task2.php",
+		"/C/OSPanel/domains/exam/task1.php",
+		"/C/OSPanel/domains/exam/empty.js",
+		"/C/OSPanel/domains/exam/empty.php",
+		"/C/OSPanel/domains/exam/task3.php",
+		"/C/OSPanel/domains/exam/a2.php",
+		"/C/OSPanel/domains/exam/a1.php",
+		"/C/Users/Vojd/Desktop/Оля/exam/page1.php",
+		"/G/SOS/Экзамен задачи WEB/Анжауров/exam/.htaccess",
+		"/C/OSPanel/domains/exam/page1.php",
+		"/C/OSPanel/domains/exam/page2.php",
+		"/C/OSPanel/domains/exam/Visitors.php",
+		"/C/OSPanel/Music/application/controllers/controller_admin.php",
+		"/C/OSPanel/Music/application/models/model_admin.php",
+		"/C/OSPanel/domains/web7/models/blog_model.php",
+		"/C/OSPanel/domains/web7/views/admin/blogEdit.php",
+		"/C/OSPanel/domains/web7/controllers/admin/blogEdit_controller.php",
+		"/C/OSPanel/domains/weblabs-master/app/Http/Controllers/HomeController.php",
+		"/C/OSPanel/domains/exam/dbconfig.php",
+		"/C/OSPanel/Music/application/views/Admin/Add_News.php",
+		"/C/OSPanel/domains/weblabs-master/resources/views/home.blade.php",
+		"/C/OSPanel/domains/weblabs-master/resources/views/components/comment.blade.php",
+		"/C/OSPanel/domains/weblabs-master/app/Http/Controllers/AdminController.php",
+		"/C/OSPanel/Music/application/models/model_info.php",
+		"/C/OSPanel/Music/application/models/model_ls.php",
+		"/C/OSPanel/Music/application/models/model_news.php",
+		"/C/OSPanel/domains/Music/application/controllers/controller_admin.php",
+		"/C/OSPanel/Music/application/controllers/controller_mainpage.php",
+		"/C/OSPanel/Music/application/controllers/controller_ls.php",
+		"/C/OSPanel/Music/application/controllers/controller_news.php",
+		"/G/SOS/Экзамен задачи WEB/Антонов/index.php",
+		"/G/SOS/Экзамен задачи WEB/Бурков/index.php",
+		"/G/SOS/Экзамен задачи WEB/Бурков/obr_otv.php",
+		"/C/OSPanel/domains/web8/views/authorization/authorization.php",
+		"/G/domains/weball/config/database.php",
+		"/C/OSPanel/domains/web8/views/authorization/registration_form.php",
+		"/C/OSPanel/domains/web8/libs/ActiveRecord.php",
+		"/C/OSPanel/domains/web8/controllers/admin/blogEdit_controller.php",
+		"/C/OSPanel/domains/web8/controllers/authorization_controller.php",
+		"/C/OSPanel/domains/web8/libs/Registry.php",
+		"/C/OSPanel/domains/web7/views/admin/loadmessages.php",
+		"/C/OSPanel/domains/web7/controllers/loadmessages_controller.php",
+		"/C/OSPanel/domains/weblabs-master/resources/views/static/about.haml.php",
+		"/C/OSPanel/domains/weblabs-master/resources/views/static/contacts.haml.php",
+		"/C/OSPanel/domains/weblabs-master/resources/views/static/photoalbum.haml.php",
+		"/C/OSPanel/domains/weblabs-master/routes/web.php",
+		"/C/OSPanel/domains/weblabs-master/app/Comment.php",
+		"/C/OSPanel/domains/weblabs-master/public/js/app.js",
+		"/C/OSPanel/domains/weblabs-master/routes/api.php",
+		"/C/OSPanel/domains/weblabs-master/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/OSPanel/domains/weblabs-master/resources/views/auth/register.blade.php",
+		"/C/OSPanel/domains/weblabs-master/resources/assets/js/app.js",
+		"/C/OSPanel/domains/weblabs-master/app/Http/Controllers/Controller.php",
+		"/C/OSPanel/domains/weblabs-master/app/Post.php",
+		"/C/OSPanel/domains/weblabs-master/app/Role.php",
+		"/C/OSPanel/domains/weblabs-master/app/User.php",
+		"/C/OSPanel/domains/weblabs-master/public/js/first.js",
+		"/C/OSPanel/domains/weblabs-master/resources/views/layouts/app.blade.php",
+		"/C/OSPanel/domains/weblabs-master/resources/views/components/post.blade.php",
+		"/C/OSPanel/domains/web7/views/includes/footer.php",
+		"/C/OSPanel/domains/weblabs-master/resources/views/welcome.haml.php",
+		"/C/OSPanel/domains/web7/views/includes/header.php",
+		"/C/OSPanel/domains/weblabs-master/resources/lang/en/auth.php",
+		"/C/OSPanel/domains/weblabs-master/resources/views/auth/passwords/email.blade.php",
+		"/C/OSPanel/domains/weblabs-master/resources/views/auth/login.blade.php",
+		"/C/OSPanel/domains/weblabs-master/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php",
+		"/C/OSPanel/domains/weblabs-master/resources/views/static/education.haml.php",
+		"/C/OSPanel/domains/web7/views/contact.php",
+		"/C/OSPanel/domains/weblabs-master/resources/views/static/profile.haml.php",
+		"/C/OSPanel/domains/weblabs-master/resources/views/static/calendar.blade.php",
+		"/C/OSPanel/domains/web7/views/aboutme.php",
+		"/C/OSPanel/domains/weblabs-master/public/index.php",
+		"/C/OSPanel/domains/web7/public/css/adminFrames.css",
+		"/C/OSPanel/domains/web7/views/admin/admin.php",
+		"/C/OSPanel/domains/web7/controllers/admin_controller.php",
+		"/C/OSPanel/domains/web7/views/blog.php",
+		"/C/OSPanel/domains/web7/views/test.php",
+		"/C/OSPanel/domains/web7/controllers/test_controller.php",
+		"/C/OSPanel/domains/web7/libs/TestFormValidator.php",
+		"/C/OSPanel/domains/web7/views/authorization/registration_form.php",
+		"/C/OSPanel/domains/web7/views/includes/blogPaginator.php",
+		"/C/OSPanel/domains/web7/views/authorization/registration_form1.php",
+		"/C/OSPanel/domains/web6-/views/authorization/registration_form.php",
+		"/C/OSPanel/domains/web7-master/views/authorization/registration_form.php",
+		"/C/OSPanel/domains/web7-master/views/authorization/login_form.php",
+		"/C/OSPanel/domains/web7/controllers/blog_controller.php",
+		"/C/OSPanel/domains/weblabs-master/config/database.php",
+		"/C/OSPanel/domains/weblabs-master/bootstrap/app.php",
+		"/C/OSPanel/domains/web7/libs/ActiveRecord.php",
+		"/C/OSPanel/domains/web7/models/BlogTable.php",
+		"/C/OSPanel/domains/web7/libs/Bootstrap.php",
+		"/C/OSPanel/domains/web7/public/css/common.css",
+		"/C/OSPanel/domains/web7/libs/DB.php",
+		"/C/OSPanel/domains/Music/js/jjj.js",
+		"/C/OSPanel/domains/Music/application/views/Main_Page.php",
+		"/C/OSPanel/domains/Music/application/models/model_user.php",
+		"/C/OSPanel/domains/Music/application/models/model_news.php",
+		"/C/OSPanel/domains/Music/application/models/model_mainpage.php",
+		"/C/OSPanel/domains/Music/application/models/model_info.php",
+		"/C/OSPanel/domains/Music/application/models/model_ls.php",
+		"/C/OSPanel/domains/Music/application/models/model_admin.php",
+		"/C/OSPanel/domains/Music/application/controllers/controller_news.php",
+		"/C/OSPanel/domains/Music/application/controllers/controller_mainpage.php",
+		"/C/OSPanel/domains/Music/application/controllers/controller_ls.php",
+		"/C/OSPanel/domains/Music/application/controllers/controller_info.php",
+		"/C/OSPanel/domains/Music/index.php",
+		"/C/OSPanel/domains/Music/application/controllers/controller_user.php",
+		"/C/Users/Vojd/Desktop/gfdgdf/application/controllers/controller_mainpage.php",
+		"/C/OSPanel/domains/web7/views/authorization/authorization.php",
+		"/C/OSPanel/domains/Music/application/views/Avtoriz.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "server.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
